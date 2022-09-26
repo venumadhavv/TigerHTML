@@ -1,0 +1,69 @@
+*{
+    background-color: #f2b853;
+}
+#icon{
+    width: 170px;
+    height: 150px;
+    margin-top: 30px;
+    border: 1px solid black;
+    border-radius: 20%;
+}
+h1{
+    text-align: center;
+    font-family: serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-bottom: 1px solid red;
+    margin-top: 10px;
+    color: rgb(78, 41, 113);
+    margin-left: 10px;
+}
+header{
+    position: sticky;
+    
+}
+nav{
+    text-align: center;
+    margin-top: 2%;
+    margin-right: 20px;
+
+}
+li{
+    display: inline;
+}
+a{
+    margin-left: 50px;
+    border: 2px solid black;
+    background: gainsboro;
+    color:black;
+    text-decoration: none;
+    padding:10px;
+    font-family:inherit;
+    font-weight: 600;
+}
+a:hover{
+    background-color: black;
+    color:white;
+    font-style: italic;
+
+}
+h2{
+    color: rgb(78, 41, 113);
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+p{
+    margin-bottom: 20px;
+}
+.collection{
+    color:red;
+    text-decoration: underline; 
+}
+img{
+    margin-left:20px;
+    margin-top: 10px;
+    border: 5px solid whitesmoke;
+
+
+}
